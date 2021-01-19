@@ -17,8 +17,4 @@ return 0;
 
 
 
-//Avishek Golder
-//Khulna Polytechnic Institute
-//Good Bye
-
 
